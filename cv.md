@@ -3,6 +3,7 @@
 - Phone: +375 29 609 63 52
 - E-mail: nastyafedorets@mail.ru
 - Telegram: @anfeeed
+- Discord: NastyA#5189
 # Briefly About Myself:
 In June of this year I receive a diploma of graduation from the university. Until recently, I was sure that I would work as a profession - a primary school teacher. At the moment, there are a lot of people in my environment who are familiar with programming and work in IT. Gradually, this area began to attract interest from me. At the moment I have no experience, but there is a desire to learn and learn something new.I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer/
 # Code example:
