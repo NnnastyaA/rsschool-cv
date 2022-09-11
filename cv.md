@@ -14,14 +14,18 @@ In June of this year I receive a diploma of graduation from the university. Unti
 # Code example:
 
 ```
-function multiply(a, b){
-  return a * b
+function reverse (n) {
+    let module = Math.abs(n);
+    let numberAsString = module.toString();
+
+    return numberAsString.split("").reverse().join("");
 }
 ```
-
 # Projects:
 
-[Markdown & Git](https://github.com/NnnastyaA/rsschool-cv/blob/gh-pages/cv.md)
+[Markdown & Git](https://github.com/NnnastyaA/rsschool-cv/blob/gh-pages/cv.md)  
+[Momentum](https://rolling-scopes-school.github.io/nnnastyaa-JSFEPRESCHOOL2022Q2/momentum/)  
+[Travel](https://rolling-scopes-school.github.io/nnnastyaa-JSFEPRESCHOOL2022Q2/travel/)
 
 # Education:
 
