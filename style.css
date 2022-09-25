@@ -10,6 +10,7 @@ body {
   display: flex;
   flex-direction:column;
   justify-content:space-between;
+  background-color: #b3f3ea;
 }
 
 @font-face {
@@ -75,8 +76,9 @@ html {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #000080;
+  color: #0b0b36;
 }
+
 .link{
   text-decoration: none;
   color:#0000CD;
