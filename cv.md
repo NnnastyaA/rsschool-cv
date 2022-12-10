@@ -49,6 +49,7 @@ Profession: primary school teacher
 # Languages:
 
 I am currently studying with an English tutor.
+German language - elementary level.
 
 # Photo:
 
