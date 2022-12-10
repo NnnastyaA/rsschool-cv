@@ -9,17 +9,32 @@
 
 # Briefly About Myself:
 
-In June of this year I receive a diploma of graduation from the university. Until recently, I was sure that I would work as a profession - a primary school teacher. At the moment, there are a lot of people in my environment who are familiar with programming and work in IT. Gradually, this area began to attract interest from me. At the moment I have no experience, but there is a desire to learn and learn something new.I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer/
+She graduated from the Pedagogical University with a degree in primary education. After working at school, I realized that this was not my thing at all. It so happened that in my environment there are a lot of people who are connected with the IT sphere. I decided to take courses from rs.school in the summer, but in the end there was not enough time for them. Now I have dropped out of school and definitely decided to connect my life with programming. This is my second attempt and hopefully successful.
 
 # Code example:
 
 ```
-function reverse (n) {
-    let module = Math.abs(n);
-    let numberAsString = module.toString();
+function towelSort (matrix) {
+  let array = [];
 
-    return numberAsString.split("").reverse().join("");
+  if (matrix){
+    for (let i = 0; i < matrix.length; i++) {
+      if (i % 2 == 0) {
+        for (let j = 0; j < matrix[i].length; j++) {
+          array.push(matrix[i][j]);
+        }
+      }
+      else {
+        for (let j = matrix[i].length - 1; j >= 0; j--){
+          array.push(matrix[i][j]);
+        }
+      }
+    }
+  }
+
+  return array;
 }
+
 ```
 # Projects:
 
@@ -35,7 +50,10 @@ Profession: primary school teacher
 # Languages:
 
 I am currently studying with an English tutor.
+German language - elementary level.
 
 # Photo:
 
-<a href="https://ibb.co/FXJpwFm"><img src="https://i.ibb.co/FXJpwFm/photo-2022-06-02-19-09-24-2.jpg" alt="photo-2022-06-02-19-09-24-2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QQ41pQc/photo-2022-09-27-19-39-00.jpg" alt="photo-2022-09-27-19-39-00"/></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qjK8V7Y/photo-2022-09-27-19-38-50.jpg" alt="photo-2022-09-27-19-38-50"/></a>
