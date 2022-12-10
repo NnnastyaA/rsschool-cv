@@ -52,4 +52,6 @@ I am currently studying with an English tutor.
 
 # Photo:
 
-<a href="https://ibb.co/FXJpwFm"><img src="https://i.ibb.co/FXJpwFm/photo-2022-06-02-19-09-24-2.jpg" alt="photo-2022-06-02-19-09-24-2"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QQ41pQc/photo-2022-09-27-19-39-00.jpg" alt="photo-2022-09-27-19-39-00"/></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qjK8V7Y/photo-2022-09-27-19-38-50.jpg" alt="photo-2022-09-27-19-38-50"/></a>
