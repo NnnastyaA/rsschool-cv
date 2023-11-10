@@ -48,8 +48,8 @@ Belarusian State Pedagogical University named after Maxim Tank
 Profession: primary school teacher
 
 # Languages:
-English: A1, but I am studying with a private teacher to improve my level.
-German language - elementary level.
+English: A1, but I am studying with a private teacher to improve my level.<br>
+German language - elementary level.<br>
 Native speaker of Russian and Belarusian.
 
 # Photo:
