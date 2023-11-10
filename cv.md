@@ -36,9 +36,7 @@ function towelSort (matrix) {
 }
 
 ```
-# Projects:
-
-[Markdown & Git](https://github.com/NnnastyaA/rsschool-cv/blob/gh-pages/cv.md)  
+# Projects: 
 [Momentum](https://rolling-scopes-school.github.io/nnnastyaa-JSFEPRESCHOOL2022Q2/momentum/)  
 [Travel](https://rolling-scopes-school.github.io/nnnastyaa-JSFEPRESCHOOL2022Q2/travel/)
 
