@@ -2,7 +2,7 @@
 
 # Contact information:
 
-- Phone: +375 29 609 63 52
+- Phone: +375(29)-609-63-52
 - E-mail: nastyafedorets@mail.ru
 - Telegram: @anfeeed
 - Discord: NastyA#5189
